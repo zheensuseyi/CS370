@@ -1,7 +1,7 @@
-# Zheen Suseyi
-# 10/22/2023
-# CS370
-# SNHU
+ Zheen Suseyi
+ 10/22/2023
+ CS370
+ SNHU
 
 # Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 The purpose of this project was to make an intelligent Pirate Agent that was able to get to the treasure in the most optimial way possible. The majority of the code in this project was already given to me. The part of the code which I actually did was the Q-Training Algorithm Code Block. Starting from "for epoch in range(n_epoch):" to "loss = model.evaluate(inputs, targets)" was the code I wrote for my pirate intelligent agent.
